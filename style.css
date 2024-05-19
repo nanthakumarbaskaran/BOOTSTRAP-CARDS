@@ -1,0 +1,17 @@
+.text-primary{
+    color:darkblue |important
+}
+.btn-primary {
+    background-color:blueviolet;
+outline:none;
+}
+.btn-primary:hover {
+    background-color: blueviolet;
+    color: chartreuse;
+    font-weight: bold;
+}
+.btn-primary:hover{
+    background-color: blueviolet;
+    color: black;
+    font-weight: bold;
+}
